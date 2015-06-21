@@ -1,0 +1,8 @@
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Release\AccountNumberClient.exe.config
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Release\AccountNumberClient.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Release\AccountNumberClient.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Release\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Release\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Release\AccountNumberClient.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Release\AccountNumberClient.pdb

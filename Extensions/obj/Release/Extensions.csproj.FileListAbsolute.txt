@@ -1,0 +1,5 @@
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\bin\Release\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\bin\Release\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Release\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Release\Extensions.pdb

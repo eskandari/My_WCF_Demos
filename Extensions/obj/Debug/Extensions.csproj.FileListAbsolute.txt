@@ -1,0 +1,30 @@
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\bin\Debug\Extensions.dll
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\bin\Debug\Extensions.pdb
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\Extensions.dll
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\Extensions.pdb
+C:\Demos\Extensibility\Extensions\bin\Debug\Extensions.dll
+C:\Demos\Extensibility\Extensions\bin\Debug\Extensions.pdb
+C:\Demos\Extensibility\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Demos\Extensibility\Extensions\obj\Debug\Extensions.dll
+C:\Demos\Extensibility\Extensions\obj\Debug\Extensions.pdb
+C:\wcfunum\demos\day3\Extensibility\Extensions\bin\Debug\Extensions.dll
+C:\wcfunum\demos\day3\Extensibility\Extensions\bin\Debug\Extensions.pdb
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\Extensions.dll
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\Extensions.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\Extensions\obj\Debug\Extensions.dll
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\Extensions\obj\Debug\Extensions.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\Extensions\bin\Debug\Extensions.dll
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\bin\Debug\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\bin\Debug\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Debug\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\Extensions\obj\Debug\Extensions.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\Extensions\bin\Debug\Extensions.dll
+C:\Users\rpontes\Desktop\temp\20150619\demos\Extensions\bin\Debug\Extensions.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\rpontes\Desktop\temp\20150619\demos\Extensions\obj\Debug\Extensions.dll
+C:\Users\rpontes\Desktop\temp\20150619\demos\Extensions\obj\Debug\Extensions.pdb

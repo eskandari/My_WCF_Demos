@@ -1,0 +1,27 @@
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\obj\Debug\AccountNumberService.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\bin\Debug\Extensions.dll
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\bin\Debug\Extensions.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\bin\Debug\AccountServiceService.exe.config
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\bin\Debug\AccountServiceService.exe
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\bin\Debug\AccountServiceService.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\obj\Debug\AccountServiceService.exe
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeService\obj\Debug\AccountServiceService.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Debug\AccountServiceService.exe.config
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Debug\AccountServiceService.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Debug\AccountServiceService.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Debug\AccountServiceService.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Debug\AccountServiceService.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Debug\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Debug\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\bin\Debug\AccountServiceService.exe.config
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\obj\Debug\AccountServiceService.exe
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\obj\Debug\AccountServiceService.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\bin\Debug\AccountServiceService.exe
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\bin\Debug\AccountServiceService.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\bin\Debug\Extensions.dll
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\bin\Debug\Extensions.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeService\obj\Debug\AccountNumberService.csprojResolveAssemblyReference.cache
+G:\vs2015\20150619\demos\ZipCodeService\bin\Debug\AccountServiceService.exe.config
+G:\vs2015\20150619\demos\ZipCodeService\obj\Debug\AccountServiceService.exe
+G:\vs2015\20150619\demos\ZipCodeService\obj\Debug\AccountServiceService.pdb

@@ -1,0 +1,27 @@
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\bin\Debug\Extensions.dll
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\bin\Debug\Extensions.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\obj\Debug\AccountNumberClient.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe.config
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\bin\Debug\AccountNumberClient.pdb
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\obj\Debug\AccountNumberClient.exe
+C:\Users\Ehsan\Desktop\Learning\Topics\WCF\wcf-advanced-topics\materials\extensibility-exercise-files\demos\ZipCodeClient\obj\Debug\AccountNumberClient.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe.config
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Debug\AccountNumberClient.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Debug\AccountNumberClient.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Debug\AccountNumberClient.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Debug\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\bin\Debug\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe.config
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\obj\Debug\AccountNumberClient.exe
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\obj\Debug\AccountNumberClient.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\bin\Debug\AccountNumberClient.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\bin\Debug\Extensions.dll
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\bin\Debug\Extensions.pdb
+C:\Users\rpontes\Desktop\temp\20150619\demos\ZipCodeClient\obj\Debug\AccountNumberClient.csprojResolveAssemblyReference.cache
+G:\vs2015\20150619\demos\ZipCodeClient\bin\Debug\AccountNumberClient.exe.config
+G:\vs2015\20150619\demos\ZipCodeClient\obj\Debug\AccountNumberClient.exe
+G:\vs2015\20150619\demos\ZipCodeClient\obj\Debug\AccountNumberClient.pdb

@@ -1,0 +1,8 @@
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Release\AccountServiceService.exe.config
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Release\AccountServiceService.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Release\AccountServiceService.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Release\Extensions.dll
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\bin\Release\Extensions.pdb
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Release\AccountServiceService.exe
+C:\Documents and Settings\eeskandari\Desktop\temp\WCF\demos\ZipCodeService\obj\Release\AccountServiceService.pdb

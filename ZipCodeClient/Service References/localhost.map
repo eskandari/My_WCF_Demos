@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8080/accountNumbers"
+		Name="localhost"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8080/accountNumbers"
+			BindingConfiguration="BasicHttpBinding_IAccountNumberService"
+			Contract="AccountNumberClient.localhost.IAccountNumberService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>
